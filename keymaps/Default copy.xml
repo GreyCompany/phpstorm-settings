@@ -16,16 +16,26 @@
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="Diff.SelectedChange" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine" />
   <action id="EditorSelectWord" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="Images.Thumbnails.EnterAction" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="tab" />
   </action>
