@@ -1,15 +1,15 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="D:\wamp64\bin\php\php7.1.6\php.exe" id="c8eb446b-0d28-4dd7-a07a-ad0171a0809b" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
+      <interpreter home="D:\wamp64\bin\php\php7.1.7\php.exe" id="c8eb446b-0d28-4dd7-a07a-ad0171a0809b" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.1">
-        <phpinfo binary_type="PHP" php_cgi="D:\wamp64\bin\php\php7.1.6\php-cgi.exe" php_cli="D:\wamp64\bin\php\php7.1.6\php.exe" path_separator=";" version="7.1.6">
+        <phpinfo binary_type="PHP" php_cgi="D:\wamp64\bin\php\php7.1.7\php-cgi.exe" php_cli="D:\wamp64\bin\php\php7.1.7\php.exe" path_separator=";" version="7.1.7">
           <additional_php_ini />
-          <configuration_file>D:\wamp64\bin\php\php7.1.6\php.ini</configuration_file>
+          <configuration_file>D:\wamp64\bin\php\php7.1.7\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -49,7 +49,7 @@
             <configuration_option name="enable_dl" value="" />
             <configuration_option name="enable_post_data_reading" value="1" />
             <configuration_option name="error_append_string" value="" />
-            <configuration_option name="error_log" value="D:/wamp64/logs/php_error.log" />
+            <configuration_option name="error_log" value="d:/wamp64/logs/php_error.log" />
             <configuration_option name="error_prepend_string" value="" />
             <configuration_option name="error_reporting" value="32767" />
             <configuration_option name="exif.decode_jis_intel" value="JIS" />
@@ -59,7 +59,7 @@
             <configuration_option name="exif.encode_jis" value="" />
             <configuration_option name="exif.encode_unicode" value="ISO-8859-15" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="D:/wamp64/bin/php/php7.1.6/ext/" />
+            <configuration_option name="extension_dir" value="d:/wamp64/bin/php/php7.1.7/ext/" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
@@ -169,7 +169,7 @@
             <configuration_option name="session.name" value="PHPSESSID" />
             <configuration_option name="session.referer_check" value="" />
             <configuration_option name="session.save_handler" value="files" />
-            <configuration_option name="session.save_path" value="D:/wamp64/tmp" />
+            <configuration_option name="session.save_path" value="d:/wamp64/tmp" />
             <configuration_option name="session.serialize_handler" value="php" />
             <configuration_option name="session.sid_bits_per_character" value="5" />
             <configuration_option name="session.sid_length" value="26" />
@@ -188,7 +188,7 @@
             <configuration_option name="short_open_tag" value="" />
             <configuration_option name="smtp_port" value="25" />
             <configuration_option name="soap.wsdl_cache" value="1" />
-            <configuration_option name="soap.wsdl_cache_dir" value="D:/wamp64/tmp" />
+            <configuration_option name="soap.wsdl_cache_dir" value="d:/wamp64/tmp" />
             <configuration_option name="soap.wsdl_cache_enabled" value="1" />
             <configuration_option name="soap.wsdl_cache_limit" value="5" />
             <configuration_option name="soap.wsdl_cache_ttl" value="86400" />
@@ -198,7 +198,7 @@
             <configuration_option name="track_errors" value="1" />
             <configuration_option name="unserialize_callback_func" value="" />
             <configuration_option name="upload_max_filesize" value="2M" />
-            <configuration_option name="upload_tmp_dir" value="D:/wamp64/tmp" />
+            <configuration_option name="upload_tmp_dir" value="d:/wamp64/tmp" />
             <configuration_option name="url_rewriter.hosts" value="" />
             <configuration_option name="url_rewriter.tags" value="form=" />
             <configuration_option name="user_agent" value="" />
